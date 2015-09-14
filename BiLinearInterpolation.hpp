@@ -17,6 +17,7 @@
 /** BiLinearInterpolation
  *  * This implementation follows the way it is written on Wikipedia with the execption that we
  *    reverse the meaning of eta and xi (i.e. on Wikipedia eta <- 1-eta and xi <- 1-xi
+ *    https://en.wikipedia.org/wiki/Bilinear_interpolation
  */
 
 class BiLinearInterpolationPrivate;
