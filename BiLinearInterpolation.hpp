@@ -5,8 +5,8 @@
 //  Copyright (c) 2015 Zachary Clawson. All rights reserved.
 //==================================================================================================
 
-#ifndef Anytime_Astar_BiLinearInterpolation_hpp
-#define Anytime_Astar_BiLinearInterpolation_hpp
+#ifndef __BiLinearInterpolation_hpp
+#define __BiLinearInterpolation_hpp
 
 #include <Eigen/Dense>
 #include "config/GlobalTypes.hpp"
@@ -45,4 +45,4 @@ private:
 //------------------------------------------------------------------------------------------------//
 //------------------------------------------------------------------------------------------------//
 
-#endif //header
+#endif /* BILINEARINTERPOLATION */

@@ -5,8 +5,8 @@
 //  Copyright (c) 2015 Zachary Clawson. All rights reserved.
 //==================================================================================================
 
-#ifndef Anytime_Astar_GlobalTypes_hpp
-#define Anytime_Astar_GlobalTypes_hpp
+#ifndef __GlobalTypes_hpp
+#define __GlobalTypes_hpp
 
 #include <Eigen/Dense>
 
@@ -23,4 +23,4 @@ using MatrixXreal_t   = Eigen::Matrix<real_t, Eigen::Dynamic, Eigen::Dynamic>;
     
 //}
 
-#endif
+#endif /* GLOBALTYPES_HPP */
